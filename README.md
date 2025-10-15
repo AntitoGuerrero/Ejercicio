@@ -1,4 +1,4 @@
 # MI PRIMER PROYECTO
-###### Este es un ejercicio simple de **README** para la primera dinámica de *Debug Colectiva*
+Este es un ejercicio simple de **README** para la primera dinámica de *Debug Colectiva*
 # DESCRIPCIÓN
-###### Esta dinámica sirve para aprender lo básico de Markdown
+Esta dinámica sirve para aprender lo básico de Markdown
